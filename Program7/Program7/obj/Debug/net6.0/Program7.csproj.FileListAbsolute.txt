@@ -1,0 +1,14 @@
+C:\Users\jborba\source\repos\.NET-CS-Study\Program7\Program7\bin\Debug\net6.0\Program7.exe
+C:\Users\jborba\source\repos\.NET-CS-Study\Program7\Program7\bin\Debug\net6.0\Program7.deps.json
+C:\Users\jborba\source\repos\.NET-CS-Study\Program7\Program7\bin\Debug\net6.0\Program7.runtimeconfig.json
+C:\Users\jborba\source\repos\.NET-CS-Study\Program7\Program7\bin\Debug\net6.0\Program7.dll
+C:\Users\jborba\source\repos\.NET-CS-Study\Program7\Program7\bin\Debug\net6.0\Program7.pdb
+C:\Users\jborba\source\repos\.NET-CS-Study\Program7\Program7\obj\Debug\net6.0\Program7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jborba\source\repos\.NET-CS-Study\Program7\Program7\obj\Debug\net6.0\Program7.AssemblyInfoInputs.cache
+C:\Users\jborba\source\repos\.NET-CS-Study\Program7\Program7\obj\Debug\net6.0\Program7.AssemblyInfo.cs
+C:\Users\jborba\source\repos\.NET-CS-Study\Program7\Program7\obj\Debug\net6.0\Program7.csproj.CoreCompileInputs.cache
+C:\Users\jborba\source\repos\.NET-CS-Study\Program7\Program7\obj\Debug\net6.0\Program7.dll
+C:\Users\jborba\source\repos\.NET-CS-Study\Program7\Program7\obj\Debug\net6.0\refint\Program7.dll
+C:\Users\jborba\source\repos\.NET-CS-Study\Program7\Program7\obj\Debug\net6.0\Program7.pdb
+C:\Users\jborba\source\repos\.NET-CS-Study\Program7\Program7\obj\Debug\net6.0\Program7.genruntimeconfig.cache
+C:\Users\jborba\source\repos\.NET-CS-Study\Program7\Program7\obj\Debug\net6.0\ref\Program7.dll
