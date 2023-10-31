@@ -1,0 +1,14 @@
+C:\Users\jborba\source\repos\.NET-CS-Study\Program6\Program6\obj\Debug\net6.0\Program6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jborba\source\repos\.NET-CS-Study\Program6\Program6\obj\Debug\net6.0\Program6.AssemblyInfoInputs.cache
+C:\Users\jborba\source\repos\.NET-CS-Study\Program6\Program6\obj\Debug\net6.0\Program6.AssemblyInfo.cs
+C:\Users\jborba\source\repos\.NET-CS-Study\Program6\Program6\obj\Debug\net6.0\Program6.csproj.CoreCompileInputs.cache
+C:\Users\jborba\source\repos\.NET-CS-Study\Program6\Program6\bin\Debug\net6.0\Program6.exe
+C:\Users\jborba\source\repos\.NET-CS-Study\Program6\Program6\bin\Debug\net6.0\Program6.deps.json
+C:\Users\jborba\source\repos\.NET-CS-Study\Program6\Program6\bin\Debug\net6.0\Program6.runtimeconfig.json
+C:\Users\jborba\source\repos\.NET-CS-Study\Program6\Program6\bin\Debug\net6.0\Program6.dll
+C:\Users\jborba\source\repos\.NET-CS-Study\Program6\Program6\bin\Debug\net6.0\Program6.pdb
+C:\Users\jborba\source\repos\.NET-CS-Study\Program6\Program6\obj\Debug\net6.0\Program6.dll
+C:\Users\jborba\source\repos\.NET-CS-Study\Program6\Program6\obj\Debug\net6.0\refint\Program6.dll
+C:\Users\jborba\source\repos\.NET-CS-Study\Program6\Program6\obj\Debug\net6.0\Program6.pdb
+C:\Users\jborba\source\repos\.NET-CS-Study\Program6\Program6\obj\Debug\net6.0\Program6.genruntimeconfig.cache
+C:\Users\jborba\source\repos\.NET-CS-Study\Program6\Program6\obj\Debug\net6.0\ref\Program6.dll
